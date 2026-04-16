@@ -42,5 +42,7 @@ I am a Computer Science graduate with a strong foundation in systems programming
 
 ---
 ## 📩 Contact:
-- **LinkedIn:** https://www.linkedin.com/in/jesse-gempel-290a20268/
-- **Email:** jessegempel@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/jesse-gempel-290a20268/
+
+**Email:** jessegempel@gmail.com
