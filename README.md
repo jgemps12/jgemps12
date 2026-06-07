@@ -5,7 +5,7 @@ I am a Computer Science graduate with a strong foundation in systems programming
 ---
 ## 👀 Interests:
 - Operating Systems/Systems Programming
-- Machine Learning & Artificial Intelligence
+- Machine Learning, Data Engineering, and Artificial Intelligence
 - Data Analysis, Visualization, and Optimization
 
 ---
@@ -34,11 +34,11 @@ I am a Computer Science graduate with a strong foundation in systems programming
 ---
 
 ## 🧰 Skills:
-**Languages:** C/C++, Python, Java
+**Languages:** C/C++, Python, Java, SQL
 
-**Technologies:** Linux, Git, Keras, TensorFlow, Tableau
+**Technologies:** Linux, Git, Keras, TensorFlow, Tableau, Microsoft Excel
 
-**Concepts:** Machine Learning, Operating Systems, Data Visualization
+**Concepts:** Machine Learning, Operating Systems, Data Visualization, Data Manipulation/Analysis
 
 ---
 ## 📩 Contact:
